@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Death's Hunters",
-    "currentPage": "Sign_Up.html",
+    "currentPage": "Roster.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 31,
-    "versionPublish": "4.9.5",
+    "versionPublish": "4.8.8",
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png"
